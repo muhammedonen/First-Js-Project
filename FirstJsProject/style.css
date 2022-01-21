@@ -1,0 +1,23 @@
+body{
+  background-color: #537895;
+background-image: linear-gradient(315deg, #537895 0%, #09203f 74%);
+
+}
+
+.list-group-item {
+  display: flex;
+  margin-top: 2px;
+  font-variant: small-caps;
+}
+
+#h3{
+  color: aliceblue;
+  display: flex;
+  list-style: none;
+}
+h3 li{
+  margin: 2px;
+}
+span{
+  color: azure;
+}
