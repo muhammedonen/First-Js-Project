@@ -23,8 +23,8 @@ window.onload = () =>{
      var bigNumber = Math.max(...numbrs);
      var smNumber = Math.min(...numbrs);
 
-     document.getElementById('spanB').innerHTML = "Girilen en Büyük Sayı : " + `<b style="color:green">${ bigNumber}</b>`;
-     document.getElementById('spanS').innerHTML = "Girilen en Küçük sayı : "  +`<b style="color:red">${ smNumber}</b>`;
+     document.getElementById('spanB').innerHTML = " bNumber : " + `<b style="color:green">${ bigNumber}</b>`;
+     document.getElementById('spanS').innerHTML = " sNumber : "  +`<b style="color:red">${ smNumber}</b>`;
 
 
     }
